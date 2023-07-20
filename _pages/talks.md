@@ -7,7 +7,7 @@ years: [2023]
 nav: true
 nav_order: 2
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/talks.md -->
 <div class="publications">
 
 {%- for y in page.years %}

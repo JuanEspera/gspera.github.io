@@ -481,9 +481,9 @@ footer.sticky-bottom {
   }
   h2.year {
     // color: var(--global-divider-color);
-    color: red;
+    color: var(--global-custom-red);
     // border-top: 1px solid var(--global-divider-color);
-    border-top: 1px solid orange;
+    border-top: 2.5 px solid var(--global-custom-orange);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;

@@ -4,4 +4,4 @@ date: 13-02-2024 07:59:00-0400
 inline: true
 ---
 
-New paper on the [arXiv](https://arxiv.org/abs/2402.05078) 
+Our paper on Nematic torques has been published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.078301) 

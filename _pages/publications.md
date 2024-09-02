@@ -3,7 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Here you can find a complete list of my publications.
-years: [Preprints,2024]
+# years: [Preprints,2024]
+years: [2024]
 nav: true
 nav_order: 1
 ---

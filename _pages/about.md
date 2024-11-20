@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.ox.ac.uk/'>University of Oxford.</a>. <a href='https://www.physics.ox.ac.uk/research/subdepartment/rudolf-peierls-centre-theoretical-physics'>Rudolf Peierls Centre for Theoretical Physics</a>
+subtitle: <a href='https://www.ox.ac.uk/'>University of Oxford</a>. <a href='https://www.physics.ox.ac.uk/research/subdepartment/rudolf-peierls-centre-theoretical-physics'>Rudolf Peierls Centre for Theoretical Physics</a>
 
 # subtitle: <a href='https://u-paris.fr/'>Universite Paris Cite</a>. Laboratoire Matière et Systèmes Complexes <a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>
 

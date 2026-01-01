@@ -8,12 +8,35 @@
     - name: Languages
       value: Italian, English, French
 
+
+
+- title: Positions held
+  type: time_table
+  contents:
+    - title: Postdoctoral Research Assistant
+      institution: University of Oxford, Rudolf Peierls Centre for Theoretical Physics
+      year: 2024 - now
+      description: Group of Julia Yeomans funded by the ERC Advanced Grant ActBio
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Non-stipendiary lecturer
+      institution: St. Hilda's college
+      year: 2025 - now
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+
+
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Universite Paris Cite
-      year: 2020-Present
+      year: 2020-2024
       description: Are biological cells just another type of active particles?
         # - Description 1.
         # - Description 2.
@@ -85,10 +108,29 @@
 #       items:
 #         - Max Planck Medal
 
-- title: Teaching experience
+- title: Teaching activity
   type: time_table
   contents:
-    - title: TP mécanique
+    - title: Non-stipendiary lecturer
+      institution: St. Hilda's college
+      year: 2025-now
+      description:
+        - Tutor in Thermal physics A1: thermodynamics, kinetic theory, and statistical mechanics.
+        - Undergraduate college admissions.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: MMPhys project assessor
+      institution: University of Oxford
+      year: 2025
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.    - title: TP mécanique
       institution: Universite Paris Cite
       year: 2021-2023
       # description:

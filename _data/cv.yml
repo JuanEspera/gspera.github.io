@@ -131,6 +131,7 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.    - title: TP mécanique
+    - title: TP mechanics
       institution: Universite Paris Cite
       year: 2021-2023
       # description:

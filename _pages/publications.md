@@ -19,6 +19,11 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography -f papers --group_by year --group_order descending %}
+{% assign years = site.data.bibliography.papers | map: "year" | uniq | sort | reverse %}
+
+{% for y in years %}
+  <h2 class="year">{{ y }}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>
